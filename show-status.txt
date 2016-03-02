@@ -2,3 +2,5 @@ new file
 test  for show Working Diectionary
 
 first modify   then  -->   git add  but  not commit
+
+secend modify   ,but will not add ,direct   commit, to look twice change  is all be commit

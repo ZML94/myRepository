@@ -1,2 +1,4 @@
 new file
 test  for show Working Diectionary
+
+first modify   then  -->   git add  but  not commit
